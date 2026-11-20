@@ -1,0 +1,6 @@
+{
+  "name": "공룡 점프 러너",
+  "description": "사막을 달리며 선인장과 익룡을 피하는 클래식 아케이드 공룡 점프 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
